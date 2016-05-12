@@ -1,4 +1,4 @@
-var
+const
   button = document.getElementById('button')
 , main   = document.getElementById('main')
 , words  = [
@@ -97,12 +97,12 @@ var
 , 'worthy'
 ]
 
-button.onclick = function(){
-  var num = 0
+button.onclick = () => {
+  let num = 0
   do {
     num = ~~(Math.random() * words.length)
-  } while (main.innerText == 'hey, you ' + words[num] + '!')
-  main.innerText   = 'hey, you\'re '     + words[num] + '!'
+  } while (main.innerText == `hey, you ${words[num]}!`)
+  main.innerText   = `hey, you're ${words[num]}!`
   button.innerText = 'huh?'
 }
 
