@@ -106,3 +106,5 @@ button.onclick = function(){
   button.innerText = 'huh?'
 }
 
+document.addEventListener('keypress', button.onclick)
+
