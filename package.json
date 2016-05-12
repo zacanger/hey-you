@@ -1,0 +1,47 @@
+{
+  "name": "hey-you",
+  "description": "hey, you",
+  "version": "0.1.0",
+  "author": {
+    "name": "Zac Anger",
+    "url": "http://zacanger.com",
+    "email": "zac@zacanger.com"
+  },
+  "license": "WTFPL",
+  "main": "./hey.html",
+  "preferGlobal": true,
+  "scripts": {
+    "start": "nwbuild -r ."
+  },
+  "homepage": "https://github.com/zacanger/hey#readme",
+  "repository": {
+    "url": "https://github.com/zacanger/hey.git",
+    "type": "git"
+  },
+  "bugs": "https://github.com/zacanger/hey/issues",
+  "keywords": [
+    "encouragement",
+    "hey",
+    "nwjs",
+    "you"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "nw-builder": "^2.2.0"
+  },
+  "window": {
+    "icon": "./hey.png",
+    "title": "hey, you",
+    "width": 380,
+    "toolbar": false,
+    "show_in_taskbar": true,
+    "exe_icon": "hey.png",
+    "as_desktop": true,
+    "resizable": false,
+    "position": "mouse",
+    "mac_icon": "hey.png",
+    "height": 150,
+    "single-instance": false
+  }
+}
+
