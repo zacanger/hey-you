@@ -1,0 +1,9 @@
+*.log
+*.o
+*.out
+*.pid
+*.swp
+*~
+node_modules
+x/
+
