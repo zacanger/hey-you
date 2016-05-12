@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -10,7 +10,7 @@
   "license": "WTFPL",
   "main": "./html.html",
   "preferGlobal": true,
-  "bin": "nw .",
+  "bin": "./index.js",
   "scripts": {
     "start": "node index"
   },
@@ -27,8 +27,7 @@
     "you"
   ],
   "dependencies": {
-    "nwjs": "^1.4.1",
-    "nw": "^0.15.0-rc1"
+    "nwjs": "^1.4.1"
   },
   "devDependencies": {},
   "window": {
