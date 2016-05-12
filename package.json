@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -31,9 +31,10 @@
     "nw-builder": "^2.2.0"
   },
   "window": {
-    "icon": "./hey.png",
+    "icon": "hey.png",
     "title": "hey, you",
     "width": 380,
+    "frame": false,
     "toolbar": false,
     "show_in_taskbar": true,
     "exe_icon": "hey.png",
