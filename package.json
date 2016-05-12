@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -10,8 +10,9 @@
   "license": "WTFPL",
   "main": "./hey.html",
   "preferGlobal": true,
+  "bin": "./index.js",
   "scripts": {
-    "start": "nwbuild -r ."
+    "start": "node index"
   },
   "homepage": "https://github.com/zacanger/hey#readme",
   "repository": {
