@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -26,10 +26,10 @@
     "nwjs",
     "you"
   ],
-  "dependencies": {
-    "nw-builder": "^2.2.0"
+  "dependencies": {},
+  "devDependencies": {
+    "nwjs": "^1.4.1"
   },
-  "devDependencies": {},
   "window": {
     "icon": "hey.png",
     "title": "hey, you",
