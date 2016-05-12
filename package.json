@@ -1,14 +1,14 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
     "email": "zac@zacanger.com"
   },
   "license": "WTFPL",
-  "main": "./hey.html",
+  "main": "./html.html",
   "preferGlobal": true,
   "bin": "./index.js",
   "scripts": {
@@ -26,23 +26,24 @@
     "nwjs",
     "you"
   ],
-  "dependencies": {},
-  "devDependencies": {
-    "nwjs": "^1.4.1"
+  "dependencies": {
+    "nwjs": "^1.4.1",
+    "nw": "^0.15.0-rc1"
   },
+  "devDependencies": {},
   "window": {
-    "icon": "hey.png",
+    "icon": "icon.png",
     "title": "hey, you",
-    "width": 380,
+    "width": 360,
     "frame": false,
     "toolbar": false,
     "show_in_taskbar": true,
-    "exe_icon": "hey.png",
+    "exe_icon": "icon.png",
     "as_desktop": true,
     "resizable": false,
     "position": "mouse",
-    "mac_icon": "hey.png",
-    "height": 150,
+    "mac_icon": "icon.png",
+    "height": 120,
     "single-instance": false
   }
 }
