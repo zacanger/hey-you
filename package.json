@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -10,7 +10,10 @@
   "license": "WTFPL",
   "main": "./html.html",
   "preferGlobal": true,
-  "bin": "./index.js",
+  "bin": {
+    "hey-you": "./index.js",
+    "hey": "./index.js"
+  },
   "scripts": {
     "start": "node index"
   },
