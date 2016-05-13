@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -12,6 +12,9 @@
   "preferGlobal": true,
   "bin": {
     "hey-you": "./index.js",
+    "heyyou": "./index.js",
+    "imreallysadrightnow": "./index.js",
+    "cheer-me-up": "./index.js",
     "hey": "./index.js"
   },
   "scripts": {
