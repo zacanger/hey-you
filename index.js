@@ -1,9 +1,9 @@
 #!/usr/bin/env node
-
 const
-  spawn = require('child_process').spawn
-, nw    = require('nwjs')
-, path  = require('path')
-, where = path.dirname(require.main.filename)
-, child = spawn(nw, [where])
+  nw   = require('nwjs')
+, proc = require('child_process')
+, path = require('path')
+, args = [path.join(__dirname)]
+
+proc.spawn(nw, args)
 
