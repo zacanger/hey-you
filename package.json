@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -18,7 +18,8 @@
     "hey": "./index.js"
   },
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "postinstall": "nw install 0.15.0"
   },
   "homepage": "https://github.com/zacanger/hey-you#readme",
   "repository": {
