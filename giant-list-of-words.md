@@ -1,198 +1,48 @@
-a racing start
 a reason for being
-a shining examle
+a shining example
 a step ahead
-a-go-go
+a winner
 a-ok
-a1
-ablaze
 able
 abloom
-abluted
-ably
-abound
-abounding
-abounds
-above
-aboveboard
 abracadabra
 absolute
-absolutely
-absolve
-absolved
-absorbed
 absorbing
-abstract
 abubble
-abundance
-abundant
-abundant gratification
-abundantly
 abuzz
-academic
-academician
-acaronar
-accelerate
-accentuactivity
-accept
 acceptable
-acceptance
-acceptant
 accepted
-accepting
-acceptive
-acceptor
-access
-accessable
 accessible
-acclaim
 acclaimed
-acclamation
-accolade
-accolades
-accommodate
-accommodated
 accommodating
-accommodatingly
-accommodation
-accommodative
-accomodative
-accomplish
 accomplished
-accomplishment
-accomplishments
-accord
 accordant
-accordingly
-account
-accountability
-accountable
-accredit
 accreditable
-accredited
-accrue
-accumulate
-accuracy
 accurate
-accurately
-accustom
-accustomed
 ace
-ace-in-the-hole
-aced
-achievable
 achieve
-achievement
-achievements
-achiever
-achievible
-achieving
-acknowledge
+an achiever
 acknowledged
-acknowledgement
-acquaint
-acquainted
-acquiescent
-acquire
-acquit
-act
-actability
-action
-action for happiness
-activate
-active
-active and constructive steps
-actively
-acts of kindness
-actual
-actualize
-actually
-acuity
-acumen
-acuminous
-acute
-acutely
-adamant
-adapt
-adaptability
 adaptable
-adaptive
-add
 addictive
-addition
-address
-adds distinction
 adept
-adeptly
 adequate
-adherent
-adieu
-adios
-adjust
-adjustable
-adjusted
-adjutant
-administer
-administrator
 admirable
-admirably
-admiration
-admire
 admired
-admirer
-admiring
-admiringly
-admissible
 adonic
-adoptable
 adorable
-adorably
-adoration
-adore
 adored
-adorer
-adoring
-adoringly
 adroit
-adroitly
-adulate
 adulated
-adulation
-adulatory
-advance
 advanced
-advantage
-advantaged
-advantageous
-advantageously
-advantages
-adventist
-adventure
 adventuresome
-adventuristic
 adventurous
 advertise
-advisable
-advise
-advocate
-advocated
-advocates
 aesthete
 aesthetic
-aesthetical
-aesthetically
-affability
 affable
-affably
-affectation
-affecting
-affectingly
-affection
 affectionate
-affectionately
-affective
-affiliate
-affiliated
+
 affined
 affinity
 affirm
@@ -1525,6 +1375,7 @@ document
 doer
 does the trick
 doggone
+doing great
 doll
 dominant
 dominate
@@ -3513,6 +3364,7 @@ mutuality
 mutually
 mwah
 my
+my favourite
 my gosh
 my my
 my word
@@ -3679,6 +3531,7 @@ on the beam
 on the button
 on the money
 on the right foot
+on top of this
 on-the-job
 once
 one
@@ -4855,6 +4708,7 @@ snod
 snug
 snuggle
 snugly
+so cool
 so-so
 soar
 soaring
@@ -4993,7 +4847,6 @@ steadfastly
 steadfastness
 steadiest
 steadily
-steadiness
 steady
 stellar
 stellarly
@@ -5264,6 +5117,7 @@ thanks
 thanksgiving
 thankworthy
 the bare necessities
+the best
 the one
 the ultimate
 theatrical
@@ -5507,6 +5361,7 @@ undivided
 undoubted
 undoubtedly
 unencumbered
+unequaled
 unequalled
 unequivocal
 unequivocally
