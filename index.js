@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 const
   nw   = require('nwjs')
 , proc = require('child_process')
