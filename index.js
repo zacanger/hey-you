@@ -7,4 +7,3 @@ const
 , args = [path.join(__dirname)]
 
 proc.spawn(nw, args)
-
