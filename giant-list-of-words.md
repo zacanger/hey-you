@@ -4929,161 +4929,6 @@ talented
 talents
 talkative
 tallyho
-tan
-tangible
-tangy
-tantalize
-tantalizing
-tantalizingly
-taste
-tasteful
-tastefully
-tasty
-teach
-teachable
-teacher
-teaching
-team
-teammate
-teamwork
-teem
-teeming
-tempean
-temperate
-tempt
-tempting
-temptingly
-temul
-tenable
-tenacious
-tenaciously
-tenacity
-tender
-tender-hearted
-tenderly
-terrific
-terrifically
-testament
-testator
-testimonial
-testimony
-thank
-thank-you
-thankful
-thankfully
-thankfulness
-thanks
-thanksgiving
-thankworthy
-the bare necessities
-the best
-the one
-the ultimate
-theatrical
-therapeutic
-therapeutically
-therapy
-there
-there there
-think ahead
-thinker
-thinner
-thorough
-thoroughbred
-thoroughly
-thoughtful
-thoughtfully
-thoughtfulness
-thrift
-thrifty
-thrill
-thrilled
-thrilling
-thrillingly
-thrills
-thrive
-thriving
-thriving relationship
-thumb-up
-thumbs-up
-tickle
-tickled
-tidily
-tidsoptimist
-tidy
-tight
-transpicuous
-travel
-traveled
-treasure
-treat
-tremendous
-tremendously
-trendy
-tretis
-trim
-triumph
-triumphal
-triumphant
-triumphantly
-trivially
-trophy
-trouble-free
-true
-true love
-true-blue
-truly
-trump
-trumpet
-trust
-trusted
-trustee
-trustful
-trustfully
-trusting
-trustingly
-trustworthiness
-trustworthy
-trusty
-truth
-truthful
-truthfully
-truthfulness
-try
-tubular
-tuition
-tune
-tuneful
-turgent
-tutor
-twinkly
-tycoon
-tympanic
-uber
-uberty
-ubiquitary
-ubuntu
-uh-hu
-uhuh
-ultimate
-ultimation
-ultra
-ultra-crisp
-ultraprecise
-unabashed
-unabashed pleasure
-unabashedly
-unadulterated
-unaffected
-unaffectedly
-unafraid
-unalloyed
-unambiguous
-unambiguously
-unanchor
-unanimous
-unarguable
-
 
 --------
 i think the words below are mostly good
@@ -5091,6 +4936,8 @@ i think the words below are mostly good
 a reason for being
 a shining example
 a step ahead
+a treasure
+a treat
 a visionary
 a winner
 a wizard, harry
@@ -5150,6 +4997,30 @@ all right
 alluring
 alright
 altruistic
+tangible
+tangy
+tantalizing
+tasteful
+tasty
+temperate
+tempting
+tenacious
+tender
+tender-hearted
+terrific
+thankful
+thankworthy
+the best
+the one
+the ultimate
+therapeutic
+thorough
+thoughtful
+thrifty
+thrilling
+thriving
+tidy
+tight
 timeless
 timely
 tiptop
@@ -5167,6 +5038,26 @@ trailblazing
 tranquil
 transcendent
 transformative
+tremendous
+trendy
+trim
+triumphant
+trouble-free
+true
+trusting
+trustworthy
+truthful
+twinkly
+uber
+ultra
+unabashed
+unadulterated
+unaffected
+unafraid
+unambiguous
+unanchor
+unanimous
+unarguable
 unassailable
 unassuming
 unbearably cute
