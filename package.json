@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -29,6 +29,7 @@
   "bugs": "https://github.com/zacanger/hey-you/issues",
   "keywords": [
     "encouragement",
+    "fun",
     "hey",
     "nwjs",
     "you"
@@ -40,7 +41,7 @@
   "window": {
     "icon": "icon.png",
     "title": "hey, you",
-    "width": 360,
+    "width": 380,
     "toolbar": false,
     "show_in_taskbar": true,
     "exe_icon": "icon.png",

@@ -1,23 +1,32 @@
-* installation: `npm i -g hey-you`
-* usage:
-  * `hey`, or
-  * `hey-you`, or
-  * `heyyou`, or
-  * `cheer-me-up`
-  * `imreallysadrightnow`
-* you can either click or press any keys, or both if you want
-* alt-f4 or cmd-q to close it. or don't close it.
-  * you should probably just leave this open all the time.
-  * `hey &`
-* if it doesn't work for you, maybe update node
-  * on mac or linux, `npm i -g n ; n latest`
-  * on windows, check out <https://github.com/marcelklehr/nodist>
-* if it still doesn't work, please open an issue and try to fix it ASAP!
-* if you want to contribute in some way, i have a giant list of words to go
-  through and maybe work into this. they're totally untouched so far, just
-  scraped them from some website somewhere. or if you have any other changes,
-  like how nw.js spawns or making the icon work on mac, i'd love anything
-  anyone wants to contribute, just open submit a PR, please!
+# Hey, You
+
+### Installation
+
+`npm i -g hey-you`
+
+### Usage
+* `hey`, or
+* `hey-you`, or
+* `heyyou`, or
+* `cheer-me-up`
+* `imreallysadrightnow`
+
+You can either click or press any keys, or both if you want.
+
+`Alt-F4` or `Cmd-Q` to quit. Or just don't close it.
+
+You can do `hey &` to just leave it open.
+
+If this doesn't work for you, you may need to update Node.
+(On Linux or Mac, try `npm i -g n && n latest`).
+
+If it still doesn't work, please open an issue and I'll try to fix it ASAP!
+
+If you're wanting to contribute:
+* There's that `unsorted-words.md` that I still need to sort through.
+* Making nw.js spawn in a better way, or moving to Electron, or making Icons
+  work right, are all goals.
+* Any other issues or PRs are totally welcome too!
 
 ## hey, you...
 ## you rule.
