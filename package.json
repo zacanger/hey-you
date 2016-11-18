@@ -1,14 +1,14 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
     "email": "zac@zacanger.com"
   },
   "license": "WTFPL",
-  "main": "./html.html",
+  "main": "./electron.js",
   "preferGlobal": true,
   "bin": {
     "hey-you": "./index.js",
@@ -18,7 +18,6 @@
     "hey": "./index.js"
   },
   "scripts": {
-    "postinstall": "nw install 0.15.0",
     "start": "node index"
   },
   "homepage": "https://github.com/zacanger/hey-you#readme",
@@ -31,25 +30,12 @@
     "encouragement",
     "fun",
     "hey",
-    "nwjs",
+    "electron",
     "you"
   ],
   "dependencies": {
-    "nwjs": "^1.4.2"
+    "electron": "^1.4.7",
+    "electroner": "^4.0.2"
   },
-  "devDependencies": {},
-  "window": {
-    "icon": "icon.png",
-    "title": "hey, you",
-    "width": 380,
-    "toolbar": false,
-    "show_in_taskbar": true,
-    "exe_icon": "icon.png",
-    "as_desktop": true,
-    "resizable": false,
-    "position": "mouse",
-    "mac_icon": "icon.png",
-    "height": 120,
-    "single-instance": false
-  }
+  "devDependencies": {}
 }

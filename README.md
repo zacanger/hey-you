@@ -22,12 +22,6 @@ If this doesn't work for you, you may need to update Node.
 
 If it still doesn't work, please open an issue and I'll try to fix it ASAP!
 
-If you're wanting to contribute:
-* There's that `unsorted-words.md` that I still need to sort through.
-* Making nw.js spawn in a better way, or moving to Electron, or making Icons
-  work right, are all goals.
-* Any other issues or PRs are totally welcome too!
-
 ## hey, you...
 ## you rule.
 
