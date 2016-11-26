@@ -1,14 +1,14 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
     "email": "zac@zacanger.com"
   },
   "license": "WTFPL",
-  "main": "./html.html",
+  "main": "./index.html",
   "preferGlobal": true,
   "bin": {
     "hey-you": "./index.js",
