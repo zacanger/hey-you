@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -11,14 +11,14 @@
   "main": "./app.js",
   "preferGlobal": true,
   "bin": {
-    "hey-you": ".electron .",
-    "heyyou": ".electron .",
-    "imreallysadrightnow": ".electron .",
-    "cheer-me-up": ".electron .",
-    "hey": ".electron ."
+    "hey-you": "./index.js",
+    "heyyou": "./index.js",
+    "imreallysadrightnow": "./index.js",
+    "cheer-me-up": "./index.js",
+    "hey": "./index.js"
   },
   "scripts": {
-    "start": "electron ."
+    "start": "./index.js"
   },
   "homepage": "https://github.com/zacanger/hey-you#readme",
   "repository": {
@@ -34,7 +34,8 @@
     "you"
   ],
   "dependencies": {
-    "electron": "^1.4.8"
+    "electron": "^1.4.8",
+    "electroner": "^4.0.2"
   },
   "devDependencies": {}
 }
