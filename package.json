@@ -8,17 +8,17 @@
     "email": "zac@zacanger.com"
   },
   "license": "WTFPL",
-  "main": "./electron.js",
+  "main": "./app.js",
   "preferGlobal": true,
   "bin": {
-    "hey-you": "./index.js",
-    "heyyou": "./index.js",
-    "imreallysadrightnow": "./index.js",
-    "cheer-me-up": "./index.js",
-    "hey": "./index.js"
+    "hey-you": ".electron .",
+    "heyyou": ".electron .",
+    "imreallysadrightnow": ".electron .",
+    "cheer-me-up": ".electron .",
+    "hey": ".electron ."
   },
   "scripts": {
-    "start": "node index"
+    "start": "electron ."
   },
   "homepage": "https://github.com/zacanger/hey-you#readme",
   "repository": {
@@ -34,8 +34,7 @@
     "you"
   ],
   "dependencies": {
-    "electron": "^1.4.7",
-    "electroner": "^4.0.2"
+    "electron": "^1.4.8"
   },
   "devDependencies": {}
 }

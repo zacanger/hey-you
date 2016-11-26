@@ -2,11 +2,9 @@ const { app, BrowserWindow } = require('electron')
 const { join } = require('path')
 const { format } = require('url')
 
-let win
-
 const createWindow = () => {
-  win = new BrowserWindow({
-    width: 400
+  let win = new BrowserWindow({
+    width: 450
   , height: 150
   , icon: join(__dirname, 'icon.png')
   })
@@ -16,6 +14,8 @@ const createWindow = () => {
   , protocol: 'file'
   , slashes: true
   }))
+
+  win.setMenu(null)
 
   win.on('closed', () => {
     win = null
