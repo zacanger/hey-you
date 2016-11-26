@@ -1,11 +1,6 @@
 #!/usr/bin/env node
 
-'use strict'
+const electroner = require('electroner')
+const { resolve } = require('path')
 
-const
-  nw   = require('nwjs')
-, proc = require('child_process')
-, path = require('path')
-, args = [path.join(__dirname)]
-
-proc.spawn(nw, args)
+electroner(resolve(__dirname, 'app.js'))
