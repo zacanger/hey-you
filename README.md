@@ -5,11 +5,16 @@
 `npm i -g hey-you`
 
 ### Usage
-* `hey`, or
-* `hey-you`, or
-* `heyyou`, or
-* `cheer-me-up`
-* `imreallysadrightnow`
+
+* CLI:
+  * `hey-cli`, or
+  * `hey-you-cli`, or
+  * `heyyou-cli`
+
+* Electron app:
+  * `hey`, or
+  * `hey-you`, or
+  * `heyyou`
 
 You can either click or press any keys, or both if you want.
 
@@ -21,6 +26,10 @@ If this doesn't work for you, you may need to update Node.
 (On Linux or Mac, try `npm i -g n && n latest`).
 
 If it still doesn't work, please open an issue and I'll try to fix it ASAP!
+
+### Changes
+
+- `1.0.0` add CLI, remove `cheer-me-up` and `imreallysadrightnow`.
 
 ## hey, you...
 ## you rule.
