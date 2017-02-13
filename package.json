@@ -1,7 +1,7 @@
 {
   "name": "hey-you",
   "description": "hey, you",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Zac Anger",
     "url": "http://zacanger.com",
@@ -35,7 +35,7 @@
     "you"
   ],
   "dependencies": {
-    "electron": "^1.4.8",
+    "electron": "^1.4.15",
     "electroner": "^4.0.2"
   },
   "devDependencies": {}
