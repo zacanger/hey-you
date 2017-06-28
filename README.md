@@ -4,6 +4,10 @@
 
 `npm i -g hey-you`
 
+If installation fails with an `EACCES` error on a Mac, try
+`[sudo] npm install -g electron-prebuilt --unsafe-perm=true --allow-root` and
+then try installing again.
+
 ### Usage
 
 * CLI:
