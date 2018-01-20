@@ -7,7 +7,7 @@
     "url": "http://zacanger.com",
     "email": "zac@zacanger.com"
   },
-  "license": "WTFPL",
+  "license": "MIT",
   "main": "./app.js",
   "preferGlobal": true,
   "bin": {
@@ -35,8 +35,8 @@
     "you"
   ],
   "dependencies": {
-    "electron": "1.6.11",
-    "electroner": "4.0.4"
+    "electron": "1.7.10",
+    "electroner": "4.0.7"
   },
   "devDependencies": {}
 }
