@@ -1,5 +1,8 @@
 # Hey, You
 
+* [Web version](https://zacanger.github.io/hey-you/)
+* [npm](http://npm.im/hey-you)
+
 ### Installation
 
 `npm i -g hey-you`
