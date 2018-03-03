@@ -19,7 +19,7 @@
     "hey-cli": "./cli.js"
   },
   "scripts": {
-    "postversion": "cp index.html docs/ && cp words.js docs/ && git commit -am 'docs' && git push",
+    "postpublish": "cp index.html docs/ && cp words.js docs/ && git commit -am 'docs' && git push",
     "start": "./index.js"
   },
   "homepage": "https://zacanger.github.io/hey-you",
