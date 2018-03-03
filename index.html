@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="description" content="hey you!">
   <title>hey, you</title>
   <style type="text/css">
     @font-face {
@@ -63,6 +64,7 @@
       do {
         num = ~~(Math.random() * words.length)
       } while (main.innerText == `hey, you ${words[num]}!`)
+      document.head.querySelector('meta[name=description]').content = `hey, you're ${words[num]}!`
       main.innerText = `hey, you're ${words[num]}!`
       button.innerText = 'huh?'
     }
