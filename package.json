@@ -19,9 +19,10 @@
     "hey-cli": "./cli.js"
   },
   "scripts": {
+    "postversion": "cp index.html docs/ && cp words.js docs/ && git commit -am 'docs' && git push",
     "start": "./index.js"
   },
-  "homepage": "https://github.com/zacanger/hey-you#readme",
+  "homepage": "https://zacanger.github.io/hey-you",
   "repository": {
     "url": "https://github.com/zacanger/hey-you.git",
     "type": "git"
@@ -35,7 +36,7 @@
     "you"
   ],
   "dependencies": {
-    "electron": "1.7.11",
+    "electron": "1.8.2",
     "electroner": "4.0.7"
   },
   "devDependencies": {}

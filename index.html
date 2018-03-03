@@ -33,8 +33,8 @@
     #button {
       color: #616161;
       position: absolute;
-      bottom: 0;
-      right: 20px;
+      top: 50px;
+      left: 300px;
     }
 
     #button:hover {
@@ -53,10 +53,10 @@
   <h1 id="main">hey, you.</h1>
   <h1 id="button">what?</h1>
 
+  <script type="text/javascript" src="words.js"></script>
   <script type="text/javascript">
     const button = document.getElementById('button')
     const main = document.getElementById('main')
-    const words = require('./words')
 
     button.onclick = () => {
       let num = 0

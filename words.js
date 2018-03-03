@@ -1,4 +1,4 @@
-module.exports = [
+const words = [
   'a badass'
 , 'a beauty'
 , 'a big deal'
@@ -769,3 +769,9 @@ module.exports = [
 , 'zesty'
 , 'zingy'
 ]
+
+if (typeof module !== 'undefined' && typeof module.exports === 'object') {
+  module.exports = words
+} else if (typeof window !== 'undefined') {
+  window.words = words
+}
