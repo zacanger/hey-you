@@ -1,7 +1,5 @@
 # Hey, You
 
-**Unmaintained**
-
 * [Web version](https://zacanger.github.io/hey-you/)
 * [npm](http://npm.im/hey-you)
 
