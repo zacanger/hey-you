@@ -34,11 +34,6 @@ If this doesn't work for you, you may need to update Node.
 
 If it still doesn't work, please open an issue and I'll try to fix it ASAP!
 
-### Changes
-
-- `2.0.0` switch to MIT license
-- `1.0.0` add CLI, remove `cheer-me-up` and `imreallysadrightnow`
-
 ## hey, you...
 ## you rule.
 
