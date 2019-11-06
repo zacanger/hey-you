@@ -39,5 +39,10 @@
     "electron": "6.0.10",
     "electroner": "4.0.8"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "funding": {
+    "type": "ko-fi",
+    "url": "https://ko-fi.com/zacanger"
+  }
+
 }
