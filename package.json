@@ -3,29 +3,35 @@
   "description": "hey, you",
   "version": "3.0.5",
   "author": {
+    "email": "zac@zacanger.com",
     "name": "Zac Anger",
-    "url": "http://zacanger.com",
-    "email": "zac@zacanger.com"
+    "url": "http://zacanger.com"
+  },
+  "funding": {
+    "type": "ko-fi",
+    "url": "https://ko-fi.com/zacanger"
   },
   "license": "LGPL-3.0",
   "main": "./app.js",
   "preferGlobal": true,
   "bin": {
+    "hey": "./index.js",
+    "hey-cli": "./cli.js",
     "hey-you": "./index.js",
     "hey-you-cli": "./cli.js",
     "heyyou": "./index.js",
-    "heyyou-cli": "./cli.js",
-    "hey": "./index.js",
-    "hey-cli": "./cli.js"
+    "heyyou-cli": "./cli.js"
   },
   "scripts": {
-    "postpublish": "./docs.sh",
-    "start": "./index.js"
+    "preversion": "npm t",
+    "start": "./index.js",
+    "test": "npm run test:lint",
+    "test:lint": "eslint -c .eslintrc.json *.js"
   },
   "homepage": "https://zacanger.github.io/hey-you",
   "repository": {
-    "url": "https://github.com/zacanger/hey-you.git",
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/zacanger/hey-you.git"
   },
   "bugs": "https://github.com/zacanger/hey-you/issues",
   "keywords": [
@@ -36,12 +42,27 @@
     "you"
   ],
   "dependencies": {
-    "electron": "7.1.7",
+    "electron": "8.2.0",
     "electroner": "4.0.8"
   },
-  "devDependencies": {},
-  "funding": {
-    "type": "ko-fi",
-    "url": "https://ko-fi.com/zacanger"
+  "devDependencies": {
+    "eslint": "6.8.0",
+    "eslint-plugin-zacanger": "1.1.4",
+    "husky": "4.2.3",
+    "lint-staged": "10.0.9",
+    "prettier": "2.0.2"
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write"
+    ],
+    "package.json": [
+      "sortpack"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }

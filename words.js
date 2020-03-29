@@ -24,7 +24,7 @@ const words = [
   'a winner',
   'a wizard, harry',
   'a-ok',
-  'a\'ight',
+  "a'ight",
   'abubble',
   'abuzz',
   'accepted',
@@ -767,7 +767,7 @@ const words = [
   'yummy',
   'zazzy',
   'zesty',
-  'zingy'
+  'zingy',
 ]
 
 if (typeof module !== 'undefined' && typeof module.exports === 'object') {

@@ -1,12 +1,20 @@
 {
-  "extends": [ "standard" ],
-  "plugins": [ "babel" ],
-  "parser": "babel-eslint",
+  "root": true,
+  "plugins": [
+    "zacanger"
+  ],
+  "env": {
+    "browser": true
+  },
+  "extends": [
+    "plugin:zacanger/recommended",
+    "plugin:zacanger/node",
+    "plugin:zacanger/prettier"
+  ],
   "rules": {
-    "comma-style": [1, "first"],
-    "no-multi-spaces": [0],
-    "one-var": [0],
-    "block-spacing": [0],
-    "key-spacing": [0]
+    "fp/no-unused-expression": 0,
+    "fp/no-nil": 0,
+    "fp/no-mutation": 0,
+    "no-console": 0
   }
 }
