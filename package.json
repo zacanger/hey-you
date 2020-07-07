@@ -42,7 +42,7 @@
     "you"
   ],
   "dependencies": {
-    "electron": "8.2.0",
+    "electron": "8.2.4",
     "electroner": "4.0.8"
   },
   "devDependencies": {
