@@ -46,7 +46,7 @@
     "electroner": "4.0.8"
   },
   "devDependencies": {
-    "eslint": "7.4.0",
+    "eslint": "7.5.0",
     "eslint-plugin-zacanger": "2.0.4",
     "husky": "4.2.5",
     "lint-staged": "10.2.11",
