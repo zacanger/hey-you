@@ -15,12 +15,8 @@
   "main": "./app.js",
   "preferGlobal": true,
   "bin": {
-    "hey": "./index.js",
-    "hey-cli": "./cli.js",
     "hey-you": "./index.js",
-    "hey-you-cli": "./cli.js",
-    "heyyou": "./index.js",
-    "heyyou-cli": "./cli.js"
+    "hey-you-cli": "./cli.js"
   },
   "scripts": {
     "preversion": "npm t",

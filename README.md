@@ -15,15 +15,8 @@ then try installing again.
 
 ### Usage
 
-* CLI:
-  * `hey-cli`, or
-  * `hey-you-cli`, or
-  * `heyyou-cli`
-
-* Electron app:
-  * `hey`, or
-  * `hey-you`, or
-  * `heyyou`
+* CLI: `hey-you-cli`
+* Electron app: `hey-you`
 
 You can either click or press any keys, or both if you want.
 
