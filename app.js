@@ -3,18 +3,17 @@ const { join } = require('path')
 const { format } = require('url')
 
 const createWindow = () => {
-  // eslint-disable-next-line fp/no-let
   let win = new BrowserWindow({
     width: 450,
     height: 150,
-    icon: join(__dirname, 'icon.png'),
+    icon: join(__dirname, 'icon.png')
   })
 
   win.loadURL(
     format({
       pathname: join(__dirname, 'index.html'),
       protocol: 'file',
-      slashes: true,
+      slashes: true
     })
   )
 

@@ -767,7 +767,7 @@ const words = [
   'yummy',
   'zazzy',
   'zesty',
-  'zingy',
+  'zingy'
 ]
 
 if (typeof module !== 'undefined' && typeof module.exports === 'object') {
