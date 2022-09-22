@@ -37,11 +37,11 @@
     "you"
   ],
   "dependencies": {
-    "electron": "19.0.6",
+    "electron": "20.2.0",
     "electroner": "4.0.9"
   },
   "devDependencies": {
-    "sortpack": "2.2.4",
+    "sortpack": "2.3.0",
     "standard": "17.0.0"
   },
   "engines": {
