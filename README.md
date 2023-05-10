@@ -2,6 +2,7 @@
 
 * [Web version](https://zacanger.github.io/hey-you/)
 * [npm](http://npm.im/hey-you)
+* [Donate](https://ko-fi.com/zacanger)
 
 ### Installation
 
