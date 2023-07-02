@@ -33,14 +33,14 @@
     "you"
   ],
   "dependencies": {
-    "electron": "24.0.0",
+    "electron": "25.2.0",
     "electroner": "4.0.9"
   },
   "devDependencies": {
-    "sortpack": "2.3.3",
-    "standard": "17.0.0"
+    "sortpack": "2.3.4",
+    "standard": "17.1.0"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.0.0"
   }
 }
